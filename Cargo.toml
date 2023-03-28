@@ -1,6 +1,2 @@
 [workspace]
-members = [
-    "ndk-build",
-    "examples",
-    "cargo-apk",
-]
+members = ["ndk-build", "cargo-apk"]
